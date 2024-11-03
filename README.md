@@ -1,6 +1,6 @@
-# asesmen
+# Asesmen
 
-A new Flutter project.
+Projek Flutter untuk mata pelajaran PBO.
 
 ## Getting Started
 
