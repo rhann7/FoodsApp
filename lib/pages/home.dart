@@ -15,7 +15,7 @@ class HomePageState extends State<HomePage> {
   final List<Widget> _pages = [
     const HomeContent(),
     const CartPage(),
-    CreatePage(),
+    const CreatePage(),
   ];
 
   void _onItemTapped(int index) {
